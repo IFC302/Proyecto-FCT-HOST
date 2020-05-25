@@ -1,0 +1,16 @@
+{
+"companyName": "dam2d26",
+"productName": "Proyecto-FCT",
+"productVersion": "1.0",
+"dataUrl": "Proyecto-FCT-HOST.data.unityweb",
+"wasmCodeUrl": "Proyecto-FCT-HOST.wasm.code.unityweb",
+"wasmFrameworkUrl": "Proyecto-FCT-HOST.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
